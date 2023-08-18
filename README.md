@@ -44,12 +44,14 @@ By following these steps, you will have three entries in your text file represen
 
 4. IP address and location from the Azure virtual machine without using a VPN.
 
-![image](https://github.com/JasonDelahoussaye/Virtual_Private_Network_VPN_IP_Address_Observations/assets/106440235/0ffe175a-a0f2-47d8-a8e2-44105126c42b)
+![image](https://github.com/ShayneSL/VPN-config/assets/88577075/dfc8b3a3-4c69-4f99-950f-ee457cd3d639)
+
 [Screenshot Here: Azure VM IP Address]
 
 6. IP address and location from the Azure virtual machine with the VPN connected to a ProtonVPN server in Japan.
 
-![image](https://github.com/JasonDelahoussaye/Virtual_Private_Network_VPN_IP_Address_Observations/assets/106440235/cca59671-88f4-490d-892c-6dd93d5c5974)
+![image](https://github.com/ShayneSL/VPN-config/assets/88577075/d8685df7-7f45-4da7-8231-f317b52e0e8c)
+
 [Screenshot Here: VPN IP Address]
 
 ## Understanding the Results
@@ -58,7 +60,7 @@ From this exercise, you can observe the following:
 
 - When accessing the website from your actual PC without a VPN, it shows your original IP address and your city location.
 
-- After connecting to the Azure virtual machine and accessing the website, a different IP address and the location of the virtual machine (e.g., Paris) are displayed.
+- After connecting to the Azure virtual machine and accessing the website, a different IP address and the location of the virtual machine (e.g., Washington) are displayed.
 
 - Finally, by connecting to the ProtonVPN server in Japan from within the virtual machine and accessing the website again, another IP address and the location of the VPN server (e.g., Tokyo, Japan) are shown.
 
