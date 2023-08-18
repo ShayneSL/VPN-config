@@ -1,4 +1,7 @@
-![image](https://github.com/JasonDelahoussaye/Virtual_Private_Network_VPN_IP_Address_Observations/assets/106440235/8feba822-22ed-4a5b-a709-b4383184314e)
+![image](https://github.com/ShayneSL/VPN-config/assets/88577075/d92594e0-ad21-4f37-94da-2822bbdef201)
+
+
+
 
 
 <h1>Observing the Effect of a VPN on IP Addressing</h1>
