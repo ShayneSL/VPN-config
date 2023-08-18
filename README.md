@@ -39,7 +39,7 @@ By following these steps, you will have three entries in your text file represen
 
 1. IP address and location from your actual PC without using a VPN.
 
-![image](https://github.com/JasonDelahoussaye/Virtual_Private_Network_VPN_IP_Address_Observations/assets/106440235/a4b5720e-b589-4d32-b1bb-3b9d8faf0a15)
+![image](https://github.com/ShayneSL/VPN-config/assets/88577075/433c75ec-e80c-4b15-a0c5-00b07305487a)
 [Screenshot Here: PC IP Address]
 
 4. IP address and location from the Azure virtual machine without using a VPN.
